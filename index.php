@@ -1,1 +1,3 @@
-test
+<?php
+echo 123;
+?>
